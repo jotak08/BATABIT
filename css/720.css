@@ -1,0 +1,31 @@
+.main__tables--container .main__currency--table {
+    overflow-x: hidden;
+}
+.currency2__table--container table {
+    margin-left: -44px;
+}
+.main__currency--table .currency__table--title {
+    margin-right: 120px;
+}
+.currency2__table--title {
+    margin-right: 80px;
+    margin-bottom: 8px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--secondary-blue);
+    margin-top: 40px;
+}
+.currency2__table--date {
+    margin-left: -29px;
+}
+.icon--rigth--table a img {
+    margin-left: -53px;
+}
+.currency__table--container table {
+    margin-top: -131px;
+}
+.icon--left--table a img {
+    margin-left: -304px;
+    margin-top: 117px;
+}

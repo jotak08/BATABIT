@@ -1,0 +1,16 @@
+.product__cards--containt {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans__container--slider {
+    justify-content: center;
+    overflow: hidden
+}
+.icono--scroll--izquierda img {
+    margin-left: 278px;
+}
+
+
+

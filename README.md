@@ -9,7 +9,7 @@
 ------------
 
 
-###### Los temas y skills aprendidos a resaltar son:
+###### Los temas y skills aprendidos en este curso son:
 - **HTML**
 - **CSS**
 - **FLEXBOX**
